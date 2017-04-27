@@ -1,2 +1,2 @@
-²å¼ş»ùÓÚjquery£¬
-Ê¹ÓÃ·½·¨£º$(ele).Search(url , type);
+ï»¿æ’ä»¶åŸºäºjqueryï¼Œ
+ä½¿ç”¨æ–¹æ³•ï¼š$(ele).Search(url , type);
